@@ -1,0 +1,9 @@
+Popular GitHub Commands
+Command	Purpose
+git clone	Download a remote repository.
+git add	Stage changes for commit.
+git commit	Save changes with a message.
+git push	Upload changes to a remote repository.
+git pull	Fetch and merge changes from remote.
+git branch	Create/manage branches.
+git merge	Merge branches.
