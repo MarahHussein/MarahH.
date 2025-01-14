@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+# Ignore system files
+*.ini
+*.dat
+*.swp
+
+# Ignore directories
+AppData/
+node_modules/
+eclipse-workspace/
+.idea/
+
